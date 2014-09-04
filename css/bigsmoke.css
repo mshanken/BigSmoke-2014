@@ -60,6 +60,14 @@ a{
 .price{
 	font-size: 22px;
 }
+#sold{
+	text-decoration: line-through;
+	color: #c72127;
+}
+#out{
+	color: #c72127;
+	font-weight: bold;
+}
 .dates{
 	font-size: 15px;
 }
