@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1682008289809">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1682088829263">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="59397328" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="83391293" ref="index"/>
-    <file name="index.css" crc="355032911" ref="index"/>
-    <file name="nomq_index.css" crc="4213290240" ref="index"/>
+    <file name="master_a-master.css" crc="4197042240" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3995285975" ref="index"/>
+    <file name="index.css" crc="3944223031" ref="index"/>
+    <file name="nomq_index.css" crc="4220849835" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -354,9 +354,6 @@
     <file name="top3images-new.jpg" crc="351806434" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-new.jpg" crc="347866622" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logos.jpg" crc="4167564703" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -387,9 +384,6 @@
     <file name="23ticket-ga-sat253x253.jpg" crc="457235341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-new1200x297.jpg" crc="257722937" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="resorts-world-2022512x342.jpg" crc="373858893" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -402,55 +396,28 @@
     <file name="23aa221x221.jpg" crc="60160674" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-new1024x253.jpg" crc="151987695" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top3images-new960x174.jpg" crc="443490680" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mid3images-new960x237.jpg" crc="3948460167" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new850x154.jpg" crc="521734487" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-new850x210.jpg" crc="3975866116" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top3images-new768x139.jpg" crc="4076128489" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mid3images-new768x190.jpg" crc="360076953" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new667x121.jpg" crc="3909004626" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-new667x165.jpg" crc="102320434" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top3images-new568x103.jpg" crc="80904515" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mid3images-new568x141.jpg" crc="4173928548" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-mobile-new414x686.jpg" crc="3790702091" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-mobile-new414x938.jpg" crc="3986456940" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top3images-mobile-new375x622.jpg" crc="3927717667" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-mobile-new375x850.jpg" crc="216976386" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top3images-mobile-new320x530.jpg" crc="124709182" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mid3images-mobile-new320x725.jpg" crc="3901865920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new1680x304.jpg" crc="4270555671" seo="true" ref="index">
@@ -475,9 +442,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="23ticket-ga-sat354x354.jpg" crc="3860544935" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mid3images-new1680x415.jpg" crc="9115197" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logos1023x1648.jpg" crc="512977342" seo="true" ref="index">
@@ -514,9 +478,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="23ticket-ga-sat306x306.jpg" crc="3819432473" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mid3images-new1450x358.jpg" crc="241783426" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logos883x1423.jpg" crc="3837676110" seo="true" ref="index">
@@ -618,9 +579,6 @@
     <file name="23ticket-ga-sat339x339.jpg" crc="238298514" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mid3images-new1610x398.jpg" crc="4266727151" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logos981x1580.jpg" crc="82961183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -630,6 +588,48 @@
     <file name="bot3images1610x396.jpg" crc="275963971" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="mid3images-new2.jpg" crc="444850687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new21680x415.jpg" crc="4224670632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new21610x398.jpg" crc="305458341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new21450x358.jpg" crc="4096918311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new21200x297.jpg" crc="245400900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new21024x253.jpg" crc="4149773580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new2960x237.jpg" crc="149723676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new2850x210.jpg" crc="4275963317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new2768x190.jpg" crc="422092902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new2667x165.jpg" crc="4093725378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-new2568x141.jpg" crc="197606520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-mobile-new2414x938.jpg" crc="397472168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-mobile-new2375x850.jpg" crc="4002557807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mid3images-mobile-new2320x725.jpg" crc="4124084355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3850133771" seo="true" mt="1682008266371" redirect="true"/>
+  <file name="index.html" crc="272243792" seo="true" mt="1682088753527" redirect="true"/>
 </manifest>

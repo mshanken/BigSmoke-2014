@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigsmokelasvegas.com/index.html</loc>
-    <lastmod>2023-04-20</lastmod>
+    <lastmod>2023-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -315,9 +315,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/logos.jpg</image:loc>
     </image:image>
     <image:image>
@@ -348,9 +345,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat253x253.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new1200x297.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022512x342.jpg</image:loc>
     </image:image>
     <image:image>
@@ -363,55 +357,28 @@
       <image:loc>http://bigsmokelasvegas.com/images/23aa221x221.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new1024x253.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new960x174.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new960x237.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new850x154.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new850x210.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new768x139.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new768x190.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new667x121.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new667x165.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new568x103.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new568x141.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-mobile-new414x686.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-mobile-new414x938.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-mobile-new375x622.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-mobile-new375x850.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-mobile-new320x530.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-mobile-new320x725.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/top3images-new1680x304.jpg</image:loc>
@@ -436,9 +403,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat354x354.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new1680x415.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/logos1023x1648.jpg</image:loc>
@@ -475,9 +439,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat306x306.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new1450x358.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/logos883x1423.jpg</image:loc>
@@ -579,9 +540,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat339x339.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new1610x398.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/logos981x1580.jpg</image:loc>
     </image:image>
     <image:image>
@@ -589,6 +547,48 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/bot3images1610x396.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new21680x415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new21610x398.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new21450x358.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new21200x297.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new21024x253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new2960x237.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new2850x210.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new2768x190.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new2667x165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-new2568x141.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-mobile-new2414x938.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-mobile-new2375x850.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/mid3images-mobile-new2320x725.jpg</image:loc>
     </image:image>
   </url>
   <url>
