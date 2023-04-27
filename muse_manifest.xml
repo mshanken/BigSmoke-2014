@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1682616470192">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1682621568995">
   <folder name="css">
     <file name="site_global.css" crc="54365048"/>
-    <file name="master_a-master.css" crc="3829262300" ref="index"/>
+    <file name="master_a-master.css" crc="4134284497" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3995285975" ref="index"/>
-    <file name="index.css" crc="4120627335" ref="index"/>
+    <file name="index.css" crc="4152567627" ref="index"/>
     <file name="nomq_index.css" crc="3850448641" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -631,5 +631,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="168080840" seo="true" mt="1682616434184" redirect="true"/>
+  <file name="index.html" crc="4253328891" seo="true" mt="1682621537824" redirect="true"/>
 </manifest>
