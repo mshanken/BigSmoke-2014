@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1689709847084">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1690837175563">
   <folder name="css">
-    <file name="site_global.css" crc="54365048"/>
-    <file name="master_a-master.css" crc="4043796498" ref="index:faq"/>
-    <file name="nomq_preview_master_a-master.css" crc="4015521632" ref="index:faq"/>
-    <file name="index.css" crc="469149214" ref="index"/>
-    <file name="nomq_index.css" crc="407483306" ref="index"/>
+    <file name="site_global.css" crc="91036504"/>
+    <file name="master_a-master.css" crc="4151104677" ref="index:faq"/>
+    <file name="nomq_preview_master_a-master.css" crc="54882114" ref="index:faq"/>
+    <file name="index.css" crc="3767271024" ref="index"/>
+    <file name="nomq_index.css" crc="3946917281" ref="index"/>
     <file name="faq.css" crc="507395071" ref="faq"/>
     <file name="nomq_faq.css" crc="3934803245" ref="faq"/>
   </folder>
@@ -881,6 +881,6 @@
       <caption webpage="faq" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4084235017" seo="true" mt="1689709814844" redirect="true"/>
+  <file name="index.html" crc="228109300" seo="true" mt="1690837137733" redirect="true"/>
   <file name="faq.html" crc="506003018" seo="true" mt="1689699807413" redirect="true"/>
 </manifest>
