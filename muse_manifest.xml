@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1692892619721">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1693402180454">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="215222908" ref="index:faq:seminars"/>
+    <file name="master_a-master.css" crc="3801809049" ref="index:faq:seminars"/>
     <file name="nomq_preview_master_a-master.css" crc="4200397925" ref="index:faq:seminars"/>
-    <file name="index.css" crc="375275718" ref="index"/>
-    <file name="nomq_index.css" crc="4175003819" ref="index"/>
-    <file name="faq.css" crc="305333191" ref="faq"/>
-    <file name="nomq_faq.css" crc="530439167" ref="faq"/>
-    <file name="seminars.css" crc="4101396749" ref="seminars"/>
+    <file name="index.css" crc="4090663883" ref="index"/>
+    <file name="nomq_index.css" crc="4273203316" ref="index"/>
+    <file name="faq.css" crc="4238747484" ref="faq"/>
+    <file name="nomq_faq.css" crc="370924756" ref="faq"/>
+    <file name="seminars.css" crc="3986260851" ref="seminars"/>
     <file name="nomq_seminars.css" crc="387052398" ref="seminars"/>
   </folder>
   <folder name="fonts">
@@ -700,8 +700,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new518x94.jpg" crc="23987644" seo="true" ref="faq">
-      <caption webpage="seminars" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="23silverb-so.jpg" crc="115031174" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -958,7 +958,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="164984826" seo="true" mt="1692892586229" redirect="true"/>
-  <file name="faq.html" crc="149478204" seo="true" mt="1692886151644" redirect="true"/>
-  <file name="seminars.html" crc="348758723" seo="true" mt="1692886151644" redirect="true"/>
+  <file name="index.html" crc="3850042623" seo="true" mt="1693402133965" redirect="true"/>
+  <file name="faq.html" crc="3773033683" seo="true" mt="1693402133965" redirect="true"/>
+  <file name="seminars.html" crc="53060017" seo="true" mt="1693402133965" redirect="true"/>
 </manifest>
