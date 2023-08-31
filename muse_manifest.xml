@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1693422144255">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1693491789832">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="12403042" ref="index:faq:seminars"/>
-    <file name="nomq_preview_master_a-master.css" crc="421737831" ref="index:faq:seminars"/>
-    <file name="index.css" crc="286566008" ref="index"/>
-    <file name="nomq_index.css" crc="93843192" ref="index"/>
+    <file name="master_a-master.css" crc="3887630666" ref="index:faq:seminars"/>
+    <file name="nomq_preview_master_a-master.css" crc="4200397925" ref="index:faq:seminars"/>
+    <file name="index.css" crc="4220330659" ref="index"/>
+    <file name="nomq_index.css" crc="4039880426" ref="index"/>
     <file name="faq.css" crc="4238747484" ref="faq"/>
     <file name="nomq_faq.css" crc="370924756" ref="faq"/>
     <file name="seminars.css" crc="3986260851" ref="seminars"/>
@@ -888,77 +888,77 @@
     <file name="23aab-sowl150x150.jpg" crc="245215824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231460x1625.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos20231460x1625.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231399x1557.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos20231399x1557.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231260x1402.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos20231260x1402.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231043x1161.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos20231043x1161.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023890x990.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023890x990.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023834x929.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023834x929.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023739x822.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023739x822.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023667x743.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023667x743.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023580x645.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023580x645.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023494x550.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023494x550.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023450x501.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023450x501.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023417x465.png" crc="4137618063" seo="true" ref="index">
+    <file name="logos2023417x465.png" crc="402925492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023.png" crc="4291934083" seo="true" ref="index">
+    <file name="logos-mobile2023.png" crc="4009341813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023_2x.png" crc="101665778" seo="true" ref="index">
+    <file name="logos-mobile2023_2x.png" crc="3829356320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023368x1313.png" crc="312353238" seo="true" ref="index">
+    <file name="logos-mobile2023368x1313.png" crc="325522844" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023368x1313_2x.png" crc="101665778" seo="true" ref="index">
+    <file name="logos-mobile2023368x1313_2x.png" crc="3829356320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023347x1237.png" crc="3788447881" seo="true" ref="index">
+    <file name="logos-mobile2023347x1237.png" crc="441896042" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023347x1237_2x.png" crc="101665778" seo="true" ref="index">
+    <file name="logos-mobile2023347x1237_2x.png" crc="3829356320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023334x1189.png" crc="3784257697" seo="true" ref="index">
+    <file name="logos-mobile2023334x1189.png" crc="41907678" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023334x1189_2x.png" crc="101665778" seo="true" ref="index">
+    <file name="logos-mobile2023334x1189_2x.png" crc="3829356320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023285x1015.png" crc="157195153" seo="true" ref="index">
+    <file name="logos-mobile2023285x1015.png" crc="4106702773" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023285x1015_2x.png" crc="37327618" seo="true" ref="index">
+    <file name="logos-mobile2023285x1015_2x.png" crc="4062197369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4184555755" seo="true" mt="1693422103916" redirect="true"/>
+  <file name="index.html" crc="522029035" seo="true" mt="1693491742823" redirect="true"/>
   <file name="faq.html" crc="3773033683" seo="true" mt="1693402133965" redirect="true"/>
   <file name="seminars.html" crc="53060017" seo="true" mt="1693402133965" redirect="true"/>
 </manifest>
