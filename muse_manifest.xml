@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1693491789832">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1693588872766">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3887630666" ref="index:faq:seminars"/>
+    <file name="master_a-master.css" crc="4183437658" ref="index:faq:seminars"/>
     <file name="nomq_preview_master_a-master.css" crc="4200397925" ref="index:faq:seminars"/>
-    <file name="index.css" crc="4220330659" ref="index"/>
+    <file name="index.css" crc="343783529" ref="index"/>
     <file name="nomq_index.css" crc="4039880426" ref="index"/>
-    <file name="faq.css" crc="4238747484" ref="faq"/>
+    <file name="faq.css" crc="3928287903" ref="faq"/>
     <file name="nomq_faq.css" crc="370924756" ref="faq"/>
-    <file name="seminars.css" crc="3986260851" ref="seminars"/>
+    <file name="seminars.css" crc="12386550" ref="seminars"/>
     <file name="nomq_seminars.css" crc="387052398" ref="seminars"/>
   </folder>
   <folder name="fonts">
@@ -958,7 +958,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="522029035" seo="true" mt="1693491742823" redirect="true"/>
-  <file name="faq.html" crc="3773033683" seo="true" mt="1693402133965" redirect="true"/>
-  <file name="seminars.html" crc="53060017" seo="true" mt="1693402133965" redirect="true"/>
+  <file name="index.html" crc="263025486" seo="true" mt="1693588802242" redirect="true"/>
+  <file name="faq.html" crc="119355822" seo="true" mt="1693588655617" redirect="true"/>
+  <file name="seminars.html" crc="446166023" seo="true" mt="1693588655617" redirect="true"/>
 </manifest>
