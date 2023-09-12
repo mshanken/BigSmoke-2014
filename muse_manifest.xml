@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1694047480323">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1694541638877">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3821208935" ref="index:faq:seminars"/>
+    <file name="master_a-master.css" crc="4280775203" ref="index:faq:seminars"/>
     <file name="nomq_preview_master_a-master.css" crc="3799583954" ref="index:faq:seminars"/>
-    <file name="index.css" crc="518680983" ref="index"/>
-    <file name="nomq_index.css" crc="4213093523" ref="index"/>
+    <file name="index.css" crc="3902297942" ref="index"/>
+    <file name="nomq_index.css" crc="237529613" ref="index"/>
     <file name="faq.css" crc="3928287903" ref="faq"/>
     <file name="nomq_faq.css" crc="370924756" ref="faq"/>
     <file name="seminars.css" crc="12386550" ref="seminars"/>
@@ -958,7 +958,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4063490413" seo="true" mt="1694047269500" redirect="true"/>
+  <file name="index.html" crc="510406118" seo="true" mt="1694541585831" redirect="true"/>
   <file name="faq.html" crc="119355822" seo="true" mt="1693588655617" redirect="true"/>
   <file name="seminars.html" crc="446166023" seo="true" mt="1693588655617" redirect="true"/>
 </manifest>
