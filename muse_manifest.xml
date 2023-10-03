@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1695999833797">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1696356137180">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3935360451" ref="index:faq:seminars"/>
-    <file name="nomq_preview_master_a-master.css" crc="4200397925" ref="index:faq:seminars"/>
-    <file name="index.css" crc="115126718" ref="index"/>
-    <file name="nomq_index.css" crc="109435231" ref="index"/>
+    <file name="master_a-master.css" crc="119041055" ref="index:faq:seminars"/>
+    <file name="nomq_preview_master_a-master.css" crc="421737831" ref="index:faq:seminars"/>
+    <file name="index.css" crc="4277365320" ref="index"/>
+    <file name="nomq_index.css" crc="3982951785" ref="index"/>
     <file name="faq.css" crc="4260635108" ref="faq"/>
     <file name="nomq_faq.css" crc="4160868241" ref="faq"/>
     <file name="seminars.css" crc="128278982" ref="seminars"/>
@@ -222,13 +222,13 @@
     </file>
     <file name="top3images-new.jpg" crc="351806434" seo="true" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new1200x217.jpg" crc="342855148" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke4216x627.png" crc="4133159776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -253,53 +253,53 @@
     </file>
     <file name="top3images-new1024x186.jpg" crc="480431101" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new960x174.jpg" crc="443490680" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new850x154.jpg" crc="521734487" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new768x139.jpg" crc="4076128489" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new667x121.jpg" crc="3909004626" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new568x103.jpg" crc="80904515" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new414x686.jpg" crc="3790702091" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new375x622.jpg" crc="3927717667" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new320x530.jpg" crc="124709182" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new1680x304.jpg" crc="4270555671" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="23ticket-vip-fri354x354.jpg" crc="4281319792" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -321,8 +321,8 @@
     </file>
     <file name="top3images-new1450x263.jpg" crc="4006088237" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke4261x757.png" crc="4133159776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -347,28 +347,28 @@
     </file>
     <file name="ultimate-weekend.png" crc="184727470" seo="true" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend1420x174.png" crc="184727470" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend1225x150.png" crc="4085805133" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend1014x125.png" crc="3837435830" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend866x106.png" crc="4165331352" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="23ticket-vip-fri221x221.jpg" crc="3817899269" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -384,28 +384,28 @@
     </file>
     <file name="ultimate-weekend811x100.png" crc="4004472624" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend719x88.png" crc="3893275891" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend649x80.png" crc="334286697" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend564x69.png" crc="3815088317" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend480x59.png" crc="391604832" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile.png" crc="321079377" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -417,23 +417,23 @@
     </file>
     <file name="ultimate-weekend-mobile336x131.png" crc="97202301" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile336x131_2x.png" crc="198051837" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile286x112.png" crc="192403647" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile286x112_2x.png" crc="3801565047" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new1610x292.jpg" crc="4079292124" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -511,8 +511,8 @@
     <file name="faq-pic-u49600-fr_2x.jpg" crc="3916032526" ref="faq"/>
     <file name="smoke.jpg" crc="4050536624" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="bslv23-header-new2-crop-u28903.png" crc="146387370" seo="true" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
@@ -532,20 +532,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -560,26 +546,40 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke2.jpg" crc="3912667438" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke_2x.jpg" crc="4050536624" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile371x145.png" crc="3836949857" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile371x145_2x.png" crc="481669193" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new390x646.jpg" crc="3979281161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -601,18 +601,18 @@
     </file>
     <file name="bslv23-header-new2320x176.png" crc="468815200" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="bslv23-header-new2320x176_2x.png" crc="405358343" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend438x54.png" crc="3870699736" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke494x271.png" crc="4278537056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -634,13 +634,13 @@
     </file>
     <file name="ultimate-weekend406x50.png" crc="3764671684" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new480x87.jpg" crc="4050736890" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke487x251.png" crc="168120489" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -888,77 +888,77 @@
     <file name="23aab-sowl150x150.jpg" crc="245215824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023.jpg" crc="4133477921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231460x1625.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos20231460x1625.jpg" crc="4159025739" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231399x1557.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos20231399x1557.jpg" crc="4005208955" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231260x1402.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos20231260x1402.jpg" crc="4077884573" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos20231043x1161.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos20231043x1161.jpg" crc="49267611" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023890x990.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023890x990.jpg" crc="4238717118" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023834x929.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023834x929.jpg" crc="250047448" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023739x822.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023739x822.jpg" crc="223657225" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023667x743.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023667x743.jpg" crc="3924917371" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023580x645.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023580x645.jpg" crc="4271163657" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023494x550.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023494x550.jpg" crc="8939371" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023450x501.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023450x501.jpg" crc="284624367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos2023417x465.png" crc="3957815674" seo="true" ref="index">
+    <file name="newlogos2023417x465.jpg" crc="4102390453" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023.png" crc="3875859075" seo="true" ref="index">
+    <file name="newlogos-mobile2023.jpg" crc="3881937514" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023_2x.png" crc="259260982" seo="true" ref="index">
+    <file name="newlogos-mobile2023_2x.jpg" crc="4068461908" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023368x1313.png" crc="4117787301" seo="true" ref="index">
+    <file name="newlogos-mobile2023368x1313.jpg" crc="7482135" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023368x1313_2x.png" crc="259260982" seo="true" ref="index">
+    <file name="newlogos-mobile2023368x1313_2x.jpg" crc="4032594716" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023347x1237.png" crc="320347924" seo="true" ref="index">
+    <file name="newlogos-mobile2023347x1237.jpg" crc="3782974108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023347x1237_2x.png" crc="259260982" seo="true" ref="index">
+    <file name="newlogos-mobile2023347x1237_2x.jpg" crc="342183097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023334x1189.png" crc="4211453690" seo="true" ref="index">
+    <file name="newlogos-mobile2023334x1189.jpg" crc="3817509147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023334x1189_2x.png" crc="259260982" seo="true" ref="index">
+    <file name="newlogos-mobile2023334x1189_2x.jpg" crc="451210046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023285x1015.png" crc="3861414097" seo="true" ref="index">
+    <file name="newlogos-mobile2023285x1015.jpg" crc="200827032" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-mobile2023285x1015_2x.png" crc="4149033066" seo="true" ref="index">
+    <file name="newlogos-mobile2023285x1015_2x.jpg" crc="379964245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3891866368" seo="true" mt="1695753547138" redirect="true"/>
+  <file name="index.html" crc="3895023391" seo="true" mt="1696356082736" redirect="true"/>
   <file name="faq.html" crc="475298811" seo="true" mt="1695753843409" redirect="true"/>
   <file name="seminars.html" crc="3944742860" seo="true" mt="1695999812870" redirect="true"/>
 </manifest>
