@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigsmokelasvegas.com/index.html</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -87,9 +87,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat216x216.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022410x274.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-vip-fri176x176.jpg</image:loc>
     </image:image>
     <image:image>
@@ -102,9 +99,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat176x176.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022363x242.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-vip-fri170x170.jpg</image:loc>
     </image:image>
     <image:image>
@@ -115,9 +109,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-ga-sat170x170.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022328x219.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/23ticket-vip-fri141x141.jpg</image:loc>
@@ -757,6 +748,15 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/newlogos-mobile2023285x1015_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022431x287.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022373x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/resorts-world-2022356x237.jpg</image:loc>
     </image:image>
   </url>
   <url>

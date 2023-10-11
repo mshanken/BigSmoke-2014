@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1696356137180">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1697055189370">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="119041055" ref="index:faq:seminars"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_a-master.css" crc="4046343795" ref="index:faq:seminars"/>
     <file name="nomq_preview_master_a-master.css" crc="421737831" ref="index:faq:seminars"/>
-    <file name="index.css" crc="4277365320" ref="index"/>
-    <file name="nomq_index.css" crc="3982951785" ref="index"/>
+    <file name="index.css" crc="435981922" ref="index"/>
+    <file name="nomq_index.css" crc="103017980" ref="index"/>
     <file name="faq.css" crc="4260635108" ref="faq"/>
     <file name="nomq_faq.css" crc="4160868241" ref="faq"/>
     <file name="seminars.css" crc="128278982" ref="seminars"/>
@@ -116,9 +116,6 @@
     <file name="23ticket-ga-sat216x216.jpg" crc="4149722712" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="resorts-world-2022410x274.jpg" crc="196760330" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="23ticket-vip-fri176x176.jpg" crc="4021024288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -135,9 +132,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="resorts-world-2022363x242.jpg" crc="4116640542" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="23ticket-vip-fri170x170.jpg" crc="171390578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,9 +146,6 @@
     </file>
     <file name="23ticket-ga-sat170x170.jpg" crc="271378892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022328x219.jpg" crc="4277984926" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="23ticket-vip-fri141x141.jpg" crc="3943064439" seo="true" ref="index">
@@ -957,8 +948,17 @@
     <file name="newlogos-mobile2023285x1015_2x.jpg" crc="379964245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="resorts-world-2022431x287.jpg" crc="4024442825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="resorts-world-2022373x249.jpg" crc="3817565543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="resorts-world-2022356x237.jpg" crc="4237512323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3895023391" seo="true" mt="1696356082736" redirect="true"/>
+  <file name="index.html" crc="473727635" seo="true" mt="1697055145139" redirect="true"/>
   <file name="faq.html" crc="475298811" seo="true" mt="1695753843409" redirect="true"/>
   <file name="seminars.html" crc="3944742860" seo="true" mt="1695999812870" redirect="true"/>
 </manifest>
