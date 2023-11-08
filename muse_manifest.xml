@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1699369776576">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1699471962967">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="476218162" ref="index:faq:seminars"/>
-    <file name="nomq_preview_master_a-master.css" crc="4200397925" ref="index:faq:seminars"/>
-    <file name="index.css" crc="18399225" ref="index"/>
-    <file name="nomq_index.css" crc="53583517" ref="index"/>
-    <file name="faq.css" crc="4002094836" ref="faq"/>
-    <file name="nomq_faq.css" crc="4160868241" ref="faq"/>
-    <file name="seminars.css" crc="4212939174" ref="seminars"/>
-    <file name="nomq_seminars.css" crc="387052398" ref="seminars"/>
+    <file name="master_a-master.css" crc="3938235413" ref="index:faq:seminars"/>
+    <file name="nomq_preview_master_a-master.css" crc="4254873032" ref="index:faq:seminars"/>
+    <file name="index.css" crc="4159020806" ref="index"/>
+    <file name="nomq_index.css" crc="168392424" ref="index"/>
+    <file name="faq.css" crc="117757006" ref="faq"/>
+    <file name="nomq_faq.css" crc="11031714" ref="faq"/>
+    <file name="seminars.css" crc="338018810" ref="seminars"/>
+    <file name="nomq_seminars.css" crc="262891478" ref="seminars"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -65,339 +65,129 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:faq:seminars"/>
-    <file name="smoke4.png" crc="4133159776" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4185x535.png" crc="295541815" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4173x501.png" crc="532063136" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4153x444.png" crc="243653043" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4139x401.png" crc="350380461" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4120x348.png" crc="66598501" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4103x297.png" crc="4091247051" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri.jpg" crc="3888394870" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat.jpg" crc="4290461419" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri.jpg" crc="3802425485" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat.jpg" crc="3914841616" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022.jpg" crc="3909192772" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022437x292.jpg" crc="4099149015" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri216x216.jpg" crc="3823910060" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat216x216.jpg" crc="4049852427" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri216x216.jpg" crc="3998840246" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat216x216.jpg" crc="4149722712" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri176x176.jpg" crc="4021024288" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat176x176.jpg" crc="513721339" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri176x176.jpg" crc="152071342" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat176x176.jpg" crc="3833389384" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri170x170.jpg" crc="171390578" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat170x170.jpg" crc="532321634" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri170x170.jpg" crc="4198925747" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat170x170.jpg" crc="271378892" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri141x141.jpg" crc="3943064439" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat141x141.jpg" crc="524485046" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri141x141.jpg" crc="3853263949" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat141x141.jpg" crc="3992064008" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022465x310.jpg" crc="360376903" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri127x127.jpg" crc="3814935356" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat127x127.jpg" crc="469910270" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri127x127.jpg" crc="229638649" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat127x127.jpg" crc="85434753" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022384x256.jpg" crc="180425353" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022326x217.jpg" crc="4130956360" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri164x164.jpg" crc="4247365359" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat164x164.jpg" crc="4211986702" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri164x164.jpg" crc="3767475339" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat164x164.jpg" crc="359326505" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022321x214.jpg" crc="111118115" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri136x136.jpg" crc="141234420" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat136x136.jpg" crc="386488034" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri136x136.jpg" crc="4227911647" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat136x136.jpg" crc="410755800" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022258x172.jpg" crc="285148440" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top3images-new.jpg" crc="351806434" seo="true" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new1200x217.jpg" crc="342855148" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="smoke4216x627.png" crc="4133159776" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri253x253.jpg" crc="4265309843" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat253x253.jpg" crc="142496790" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri253x253.jpg" crc="4216394462" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat253x253.jpg" crc="457235341" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022512x342.jpg" crc="373858893" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="bot3images1200x295.jpg" crc="4278901807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new1024x186.jpg" crc="480431101" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new960x174.jpg" crc="443490680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new850x154.jpg" crc="521734487" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new768x139.jpg" crc="4076128489" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new667x121.jpg" crc="3909004626" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new568x103.jpg" crc="80904515" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new414x686.jpg" crc="3790702091" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new375x622.jpg" crc="3927717667" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new320x530.jpg" crc="124709182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new1680x304.jpg" crc="4270555671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri354x354.jpg" crc="4281319792" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat354x354.jpg" crc="304806921" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri354x354.jpg" crc="332904395" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat354x354.jpg" crc="3860544935" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022717x479.jpg" crc="32451107" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="bot3images1680x413.jpg" crc="19366477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new1450x263.jpg" crc="4006088237" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="smoke4261x757.png" crc="4133159776" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri306x306.jpg" crc="342302147" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat306x306.jpg" crc="4207303551" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri306x306.jpg" crc="4274529743" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat306x306.jpg" crc="3819432473" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022619x413.jpg" crc="3791739753" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="bot3images1450x357.jpg" crc="4094276892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ultimate-weekend.png" crc="184727470" seo="true" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend1420x174.png" crc="184727470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend1225x150.png" crc="4085805133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend1014x125.png" crc="3837435830" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend866x106.png" crc="4165331352" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri221x221.jpg" crc="3817899269" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri221x221.jpg" crc="4014512179" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat221x221.jpg" crc="52444688" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat221x221.jpg" crc="497923096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend811x100.png" crc="4004472624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend719x88.png" crc="3893275891" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend649x80.png" crc="334286697" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend564x69.png" crc="3815088317" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend480x59.png" crc="391604832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile.png" crc="321079377" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -409,46 +199,28 @@
     </file>
     <file name="ultimate-weekend-mobile336x131.png" crc="97202301" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile336x131_2x.png" crc="198051837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile286x112.png" crc="192403647" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile286x112_2x.png" crc="3801565047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new1610x292.jpg" crc="4079292124" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ultimate-weekend1361x167.png" crc="3942208404" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smoke4290x841.png" crc="4133159776" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri339x339.jpg" crc="4177322000" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri339x339.jpg" crc="4236156163" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat339x339.jpg" crc="445854754" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat339x339.jpg" crc="238298514" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022687x459.jpg" crc="4108766930" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bot3images1610x396.jpg" crc="275963971" seo="true" ref="index">
@@ -503,75 +275,28 @@
     <file name="faq-pic-u49600-fr_2x.jpg" crc="3916032526" ref="faq"/>
     <file name="smoke.jpg" crc="4050536624" ref="index:faq">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="bslv23-header-new2-crop-u28903.png" crc="146387370" seo="true" ref="index:faq:seminars">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
     </file>
     <file name="smoke2.jpg" crc="3912667438" ref="index:faq">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="smoke_2x.jpg" crc="4050536624" ref="index:faq">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile371x145.png" crc="3836949857" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend-mobile371x145_2x.png" crc="481669193" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-mobile-new390x646.jpg" crc="3979281161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -585,74 +310,25 @@
     <file name="mid3images-mobile-new2390x884.jpg" crc="3949510288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="resorts-world-2022334x223.jpg" crc="4010821669" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="bot3images-mobile390x884.jpg" crc="305257946" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv23-header-new2320x176.png" crc="468815200" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="bslv23-header-new2320x176_2x.png" crc="405358343" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="ultimate-weekend438x54.png" crc="3870699736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="smoke494x271.png" crc="4278537056" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri116x116.jpg" crc="411593875" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri116x116.jpg" crc="50405013" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat116x116.jpg" crc="3879484242" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat116x116.jpg" crc="246692234" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022350x234.jpg" crc="68923314" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="ultimate-weekend406x50.png" crc="3764671684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="top3images-new480x87.jpg" crc="4050736890" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="smoke487x251.png" crc="168120489" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-fri107x107.jpg" crc="4215764153" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri107x107.jpg" crc="472565544" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat107x107.jpg" crc="412519965" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat107x107.jpg" crc="458572618" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="mid3images-new2480x119.jpg" crc="4259749486" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022324x217.jpg" crc="207152877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bot3images480x119.jpg" crc="165304051" seo="true" ref="index">
@@ -661,22 +337,7 @@
     <file name="top3images-mobile-new430x713.jpg" crc="303504969" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="23ticket-vip-fri183x183.jpg" crc="192273738" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-fri183x183.jpg" crc="4121727696" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-vip-sat183x183.jpg" crc="3781447378" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23ticket-ga-sat183x183.jpg" crc="93754434" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="mid3images-mobile-new2430x974.jpg" crc="278635580" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022338x226.jpg" crc="343376790" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bot3images-mobile430x974.jpg" crc="3869093781" seo="true" ref="index">
@@ -692,116 +353,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top3images-new518x94.jpg" crc="23987644" seo="true" ref="faq">
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="23silverb-so.jpg" crc="115031174" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so.jpg" crc="303361579" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so354x354.jpg" crc="281836724" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so354x354.jpg" crc="4181766274" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so339x339.jpg" crc="4190087698" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so339x339.jpg" crc="230609214" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so306x306.jpg" crc="3837617942" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so306x306.jpg" crc="3907956013" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so253x253.jpg" crc="4269474108" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so253x253.jpg" crc="328671672" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so221x221.jpg" crc="441352503" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so221x221.jpg" crc="4000117743" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so216x216.jpg" crc="4098069085" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so216x216.jpg" crc="3828118785" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so176x176.jpg" crc="4168422915" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so176x176.jpg" crc="357586732" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so170x170.jpg" crc="52891245" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so170x170.jpg" crc="158615018" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so141x141.jpg" crc="140087647" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so141x141.jpg" crc="4261525931" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so127x127.jpg" crc="3872388425" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so127x127.jpg" crc="3902982518" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so116x116.jpg" crc="333295441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so116x116.jpg" crc="12690479" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so107x107.jpg" crc="55646610" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so107x107.jpg" crc="3997304301" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so208x208.jpg" crc="274164878" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so208x208.jpg" crc="62719183" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so200x200.jpg" crc="350270382" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so200x200.jpg" crc="137918932" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so188x188.jpg" crc="400781022" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so188x188.jpg" crc="4077593760" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so180x180.jpg" crc="507064748" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so180x180.jpg" crc="262315058" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23silverb-so150x150.jpg" crc="315250915" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23goldb-so150x150.jpg" crc="136456472" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="seminars2-pic.jpg" crc="3790976384" ref="seminars">
       <caption webpage="seminars" alt=""/>
@@ -826,60 +379,6 @@
     <file name="seminars2-pic-u55091-fr_2x6.jpg" crc="218956153" ref="seminars"/>
     <file name="seminars2-pic-u55091-fr7.jpg" crc="4177057985" ref="seminars"/>
     <file name="seminars2-pic-u55091-fr_2x7.jpg" crc="4168589386" ref="seminars"/>
-    <file name="23aab-sowl.jpg" crc="163234732" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl354x354.jpg" crc="4277487148" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl339x339.jpg" crc="224146509" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl306x306.jpg" crc="4260665615" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl253x253.jpg" crc="4126922817" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl221x221.jpg" crc="4177791017" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl216x216.jpg" crc="4066622" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl176x176.jpg" crc="4219791455" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl170x170.jpg" crc="268129854" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl141x141.jpg" crc="4104988369" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl127x127.jpg" crc="154109710" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl116x116.jpg" crc="4252249877" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl107x107.jpg" crc="77361462" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl208x208.jpg" crc="3989537207" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl200x200.jpg" crc="4168501863" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl188x188.jpg" crc="3866903590" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl180x180.jpg" crc="3954379435" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23aab-sowl150x150.jpg" crc="245215824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="newlogos2023.jpg" crc="26650581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -949,17 +448,61 @@
     <file name="newlogos-mobile2023285x1015_2x.jpg" crc="367490222" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="resorts-world-2022431x287.jpg" crc="4024442825" seo="true" ref="index">
+    <file name="bslv24-header-new-crop-u28903.png" crc="380439274" seo="true" ref="index:faq:seminars">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="bslv24-header-new320x176.png" crc="3940767070" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="resorts-world-2022373x249.jpg" crc="3817565543" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="resorts-world-2022356x237.jpg" crc="4237512323" seo="true" ref="index">
+    <file name="bslv24-header-new320x176_2x.png" crc="4152673218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="398347319" seo="true" mt="1699369714583" redirect="true"/>
-  <file name="faq.html" crc="526960365" seo="true" mt="1699369652038" redirect="true"/>
-  <file name="seminars.html" crc="4248404277" seo="true" mt="1699369652038" redirect="true"/>
+  <file name="index.html" crc="251514956" seo="true" mt="1699471930468" redirect="true"/>
+  <file name="faq.html" crc="3784818477" seo="true" mt="1699471930468" redirect="true"/>
+  <file name="seminars.html" crc="117371763" seo="true" mt="1699471930468" redirect="true"/>
 </manifest>
