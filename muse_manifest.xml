@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1699471962967">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1699628715694">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3938235413" ref="index:faq:seminars"/>
-    <file name="nomq_preview_master_a-master.css" crc="4254873032" ref="index:faq:seminars"/>
-    <file name="index.css" crc="4159020806" ref="index"/>
-    <file name="nomq_index.css" crc="168392424" ref="index"/>
-    <file name="faq.css" crc="117757006" ref="faq"/>
-    <file name="nomq_faq.css" crc="11031714" ref="faq"/>
-    <file name="seminars.css" crc="338018810" ref="seminars"/>
+    <file name="master_a-master.css" crc="145511771" ref="index:faq:seminars"/>
+    <file name="nomq_preview_master_a-master.css" crc="433740252" ref="index:faq:seminars"/>
+    <file name="index.css" crc="316881150" ref="index"/>
+    <file name="nomq_index.css" crc="536317547" ref="index"/>
+    <file name="faq.css" crc="4248233888" ref="faq"/>
+    <file name="nomq_faq.css" crc="6270975" ref="faq"/>
+    <file name="seminars.css" crc="24538925" ref="seminars"/>
     <file name="nomq_seminars.css" crc="262891478" ref="seminars"/>
   </folder>
   <folder name="fonts">
@@ -448,7 +448,7 @@
     <file name="newlogos-mobile2023285x1015_2x.jpg" crc="367490222" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv24-header-new-crop-u28903.png" crc="380439274" seo="true" ref="index:faq:seminars">
+    <file name="bslv24-header-new-crop-u28903.png" crc="4027916237" seo="true" ref="index:faq:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -495,14 +495,14 @@
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
     </file>
-    <file name="bslv24-header-new320x176.png" crc="3940767070" seo="true" ref="index">
+    <file name="bslv24-header-new320x176.png" crc="384734886" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv24-header-new320x176_2x.png" crc="4152673218" seo="true" ref="index">
+    <file name="bslv24-header-new320x176_2x.png" crc="397030727" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="251514956" seo="true" mt="1699471930468" redirect="true"/>
-  <file name="faq.html" crc="3784818477" seo="true" mt="1699471930468" redirect="true"/>
-  <file name="seminars.html" crc="117371763" seo="true" mt="1699471930468" redirect="true"/>
+  <file name="index.html" crc="3951439003" seo="true" mt="1699628682439" redirect="true"/>
+  <file name="faq.html" crc="4219634632" seo="true" mt="1699628682439" redirect="true"/>
+  <file name="seminars.html" crc="3913577054" seo="true" mt="1699628682439" redirect="true"/>
 </manifest>
